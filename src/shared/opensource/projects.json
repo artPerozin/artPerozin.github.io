@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "id": "1064084554",
+      "name": "Backend-IA-Typescript",
+      "createdAt": "2025-09-25T14:14:52Z",
+      "url": "https://github.com/artPerozin/Backend-IA-Typescript",
+      "description": "Backend em TypeScript com DDD, TDD e autenticação via JWT, projetado para aplicações com LLMs e RAG usando PostgreSQL + pgvector.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "960180262",
+      "name": "BackendTypescript",
+      "createdAt": "2025-04-04T01:51:08Z",
+      "url": "https://github.com/artPerozin/BackendTypescript",
+      "description": "Backend em TypeScript com Express, estruturado em Clean Architecture e DDD, desenvolvido com TDD para garantir qualidade, escalabilidade e manutenção do código.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "1150144551",
+      "name": "Nexo",
+      "createdAt": "2026-02-04T23:46:53Z",
+      "url": "https://github.com/artPerozin/Nexo",
+      "description": "ERP voltado para Empresas Juniores usando framework ASP.NET modelo MVC ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "1145476097",
+      "name": "EyeDetector",
+      "createdAt": "2026-01-29T21:00:03Z",
+      "url": "https://github.com/artPerozin/EyeDetector",
+      "description": "Utilizando visão computacional, verifica para onde o usuário está olhando a partir da câmera",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "1408041004",
+      "name": "BackendProjetosERP",
+      "createdAt": "2026-10-07T00:04:33Z",
+      "url": "https://github.com/artPerozin/BackendProjetosERP",
+      "description": "API de gestão de projetos do ERP da Konvex Jr, em Node.js e TypeScript com PostgreSQL, autenticação JWT e documentação Swagger.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "1408196043",
+      "name": "FrontendProjetosERP",
+      "createdAt": "2026-10-07T03:34:21Z",
+      "url": "https://github.com/artPerozin/FrontendProjetosERP",
+      "description": "Frontend React + Vite do sistema de gestão de projetos da Konvex Jr (Konvex Gestão), integrado à API de projetos, tarefas, capacitações, check-ins e feedbacks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "logos-dockerfile"
+        }
+      ]
+    },
+    {
+      "id": "1406198795",
+      "name": "HackatonOregon",
+      "createdAt": "2026-10-05T18:08:23Z",
+      "url": "https://github.com/artPerozin/HackatonOregon",
+      "description": "Sistema web de gestão de competências, cargos e avaliações por ciclo, com autoavaliação e avaliação privada do gestor. Next.js, Drizzle ORM e PostgreSQL.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "1438721635",
+      "name": "TrabalhoBANI",
+      "createdAt": "2026-10-29T17:06:42Z",
+      "url": "https://github.com/artPerozin/TrabalhoBANI",
+      "description": "Trabalho de Banco de Dados (UDESC): plataforma de compra de ingressos com PostgreSQL de 13 tabelas e app desktop em Python (Tkinter), com SQL escrito à mão, sem ORM.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PLpgSQL",
+          "iconifyClass": "logos-plpgsql"
+        }
+      ]
+    }
+  ]
+}
